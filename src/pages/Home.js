@@ -58,12 +58,11 @@ const Home = () => {
           style={{ y }}
         >
           <img 
-            src="https://images.unsplash.com/photo-1475274047050-1d0c0975c63e?q=100&w=2400&auto=format&fit=crop&ixlib=rb-4.0.3"
-            alt="Night Sky Background"
+           src="/images/bc.jpg"   alt="Night Sky Background"
             className="w-full h-full object-cover object-center scale-110"
             loading="eager"
           />
-          <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/60 to-black/80 backdrop-blur-[2px]"></div>
+        
         </motion.div>
         <div className="hero-content text-center text-white relative z-10 pt-32">
           <motion.div 
