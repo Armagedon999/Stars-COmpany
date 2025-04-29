@@ -4,6 +4,10 @@ Selamat datang di **IAS - I am Stars**, sebuah perusahaan revolusioner yang memu
 
 ---
 
+🌐 Website:https://stars-c-ompany-ohrt.vercel.app/
+
+---
+
 ## 🚀 Slogan
 **"Abadikan Nama Anda di Bintang"**
 
@@ -48,8 +52,5 @@ Website kami dibangun dengan:
 - **Produk**: Pilihan paket dengan harga dan deskripsi
 - **Kontak**: Formulir pemesanan dan info kontak
 
----
 
-
-🌐 Website: [i-am-stars.com](#)  
 
